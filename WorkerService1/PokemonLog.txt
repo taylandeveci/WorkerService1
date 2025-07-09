@@ -1,0 +1,210 @@
+[9.07.2025 14:48:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 14:49:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 14:50:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 14:51:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 14:52:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 14:53:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 14:54:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 14:55:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 14:56:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 14:57:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 14:58:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 14:59:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:00:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:01:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:02:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:03:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:04:09] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:25:12] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:26:12] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:27:12] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:28:12] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:29:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:30:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:31:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:32:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:33:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:34:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:35:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:36:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:37:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:38:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:39:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:40:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:41:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:42:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:43:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:44:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:45:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:46:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:47:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:48:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:49:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:50:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:51:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:52:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:53:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:54:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:55:13] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:56:14] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 15:57:14] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 16:02:57] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 16:03:57] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 16:04:57] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 16:06:30] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 16:11:53] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 16:12:53] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 16:15:40] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"},{"id":9,"name":"Alakazam","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 16:16:40] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"},{"id":9,"name":"Alakazam","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 16:17:40] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"},{"id":9,"name":"Alakazam","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 16:18:40] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"},{"id":9,"name":"Alakazam","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 16:19:40] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"},{"id":9,"name":"Alakazam","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 16:20:40] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"},{"id":9,"name":"Alakazam","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 16:21:40] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"},{"id":9,"name":"Alakazam","birthDate":"2000-05-05T00:00:00"}]
+
+[9.07.2025 16:22:40] Veri çekildi:
+[{"id":2,"name":"Squirtle","birthDate":"1903-01-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"},{"id":9,"name":"Alakazam","birthDate":"2000-05-05T00:00:00"},{"id":10,"name":"Charmander","birthDate":"1990-07-04T00:00:00"}]
+
+[9.07.2025 16:23:40] Veri çekildi:
+[{"id":2,"name":"Bulbasaur","birthDate":"2007-08-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"},{"id":9,"name":"Alakazam","birthDate":"2000-05-05T00:00:00"},{"id":10,"name":"Charmander","birthDate":"1990-07-04T00:00:00"}]
+
+[9.07.2025 16:24:40] Veri çekildi:
+[{"id":2,"name":"Bulbasaur","birthDate":"2007-08-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"},{"id":9,"name":"Alakazam","birthDate":"2000-05-05T00:00:00"},{"id":10,"name":"Charmander","birthDate":"1990-07-04T00:00:00"}]
+
+[9.07.2025 16:25:40] Veri çekildi:
+[{"id":2,"name":"Bulbasaur","birthDate":"2007-08-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"},{"id":9,"name":"Alakazam","birthDate":"2000-05-05T00:00:00"},{"id":10,"name":"Charmander","birthDate":"1990-07-04T00:00:00"}]
+
+[9.07.2025 16:26:40] Veri çekildi:
+[{"id":2,"name":"Bulbasaur","birthDate":"2007-08-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"},{"id":9,"name":"Alakazam","birthDate":"2000-05-05T00:00:00"},{"id":10,"name":"Charmander","birthDate":"1990-07-04T00:00:00"}]
+
+[9.07.2025 16:27:40] Veri çekildi:
+[{"id":2,"name":"Bulbasaur","birthDate":"2007-08-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"},{"id":9,"name":"Alakazam","birthDate":"2000-05-05T00:00:00"},{"id":10,"name":"Charmander","birthDate":"1990-07-04T00:00:00"}]
+
+[9.07.2025 16:28:40] Veri çekildi:
+[{"id":2,"name":"Bulbasaur","birthDate":"2007-08-01T00:00:00"},{"id":3,"name":"Venasuar","birthDate":"1903-01-01T00:00:00"},{"id":4,"name":"taylan","birthDate":"2003-05-05T00:00:00"},{"id":6,"name":"pika","birthDate":"2000-05-05T00:00:00"},{"id":7,"name":"asd","birthDate":"2000-05-05T00:00:00"},{"id":9,"name":"Alakazam","birthDate":"2000-05-05T00:00:00"},{"id":10,"name":"Charmander","birthDate":"1990-07-04T00:00:00"}]
+
