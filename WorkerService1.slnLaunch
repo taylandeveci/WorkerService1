@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Deneme",
+    "Projects": [
+      {
+        "Path": "WorkerService1\\WorkerService1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
